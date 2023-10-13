@@ -32,4 +32,4 @@ Testing: Test our deployed model to ensure it works as expected.
 http://ec2-18-224-25-108.us-east-2.compute.amazonaws.com:8080
 
 ## Link to all the files of the working model.
-https://github.com/SatyamVis/House-Price-Prediction-
+[[https://github.com/SatyamVis/House-Price-Prediction-](https://github.com/SatyamVis/Assignment-8-House-Price-Prediction-)]
